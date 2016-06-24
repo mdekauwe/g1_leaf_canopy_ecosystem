@@ -8,7 +8,7 @@ Juergen Knauer,
 [et al.]
 
 ## Overview ##
-Repository containing all the code associated with our X paper.
+Repository containing all the code associated with our paper.
 
 ## Datasets
 
