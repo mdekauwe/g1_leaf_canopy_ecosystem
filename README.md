@@ -19,8 +19,7 @@ Repository containing all the code associated with our paper.
 * NACP Synergetic (SYNMAP) C<sub>4</sub> relative fraction: [Jung, M., Henkel, K., Herold, M., and Churkina, G.: Exploiting synergies of
 global land cover products for carbon cycle modeling. Remote Sens. Environ.,
 101, 534–553, doi:10.1016/j.rse.2006.01.020, 2006.](https://www.bgc-jena.mpg.de/bgi/uploads/Publ/Publications/Jung_et_al_2006.pdf).
-* Global CO<sub>2</sub> data: [Ed Dlugokencky and Pieter Tans, NOAA/ESRL](ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_annmean_gl.txt)
-
+* Global CO<sub>2</sub> data: [Ed Dlugokencky and Pieter Tans, NOAA/ESRL](www.esrl.noaa.gov/gmd/ccgg/trends/)
 
 ## Instructions
 
