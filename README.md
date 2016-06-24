@@ -3,6 +3,7 @@
 [Belinda E. Medlyn](https://bmedlyn.wordpress.com/),
 [Martin G. De Kauwe](https://mdekauwe.github.io/),
 [Yan-Shih Lin](https://sites.google.com/site/yanshihlin/),
+[Juergen Knauer],
 [Remko A. Duursma](http://www.remkoduursma.com/)
 [et al.]
 
