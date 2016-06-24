@@ -27,8 +27,6 @@ global land cover products for carbon cycle modeling. Remote Sens. Environ.,
 To generate all g1 fits from leaf, isotope and fluxnet data and manuscript figures, simple type:
 
 ```
-#!bash
-
 $ make
 ```
 
