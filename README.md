@@ -31,7 +31,7 @@ $ make
 
 ## Dependancies
 
-You will need a few python packages, namely `numpy`, `pandas`, `matplotlib` `scipy` and `lmfit`. The fitting code also exploits the python MPI library `multiprocessing` to speed things up. The R code depends on the `doby`, `multcomp`, `lme4` and `LMERConvenienceFunctions`
+You will need a few python packages, namely `numpy`, `pandas`, `matplotlib` `scipy` and `lmfit`. The fitting code also exploits the python MPI library `multiprocessing` to speed things up. The R code depends on the `doby`, `multcomp`, `lme4` and `LMERConvenienceFunctions` packages.
 
 ## Contacts
 - Belinda Medlyn: B.Medlyn at westernsydney.edu.au
