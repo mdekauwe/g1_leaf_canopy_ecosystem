@@ -12,7 +12,6 @@ Jean-Marc Limousin,
 Maj-Lena Linderson,
 Patrick Meir,
 Nicolas Martin-StPaul,
-Eva van Gorsel,
 Lisa Wingate.
 
 ## Overview
