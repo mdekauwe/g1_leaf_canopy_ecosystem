@@ -11,7 +11,7 @@ Rob Clement, Peter Isaac,
 Jean-Marc Limousin,
 Maj-Lena Linderson,
 Patrick Meir,
-Nicolas Martin-StPaul,
+Nicolas Martin-StPaul and
 Lisa Wingate.
 
 ## Overview
