@@ -4,14 +4,21 @@
 [Martin G. De Kauwe](https://mdekauwe.github.io/),
 [Yan-Shih Lin](https://sites.google.com/site/yanshihlin/),
 Juergen Knauer,
-[Remko A. Duursma](http://www.remkoduursma.com/)
-[et al.]
+[Remko A. Duursma](http://www.remkoduursma.com/),
+Christopher A. Williams,
+Almut Arneth,
+Rob Clement, Peter Isaac,
+Jean-Marc Limousin,
+Maj-Lena Linderson,
+Patrick Meir,
+Nicolas Martin-StPaul,
+Eva van Gorsel,
+Lisa Wingate.
 
-## Overview ##
+## Overview
 Repository containing all the code associated with our paper.
 
 ## Datasets
-
 * Leaf gas exchange data is from [Lin et al. (2015) Optimal stomatal behaviour around the world. Nature Climate Change, 5, 459–464.](http://www.nature.com/nclimate/journal/v5/n5/full/nclimate2550.html)
 * Stable isotope dataset: [Dryad Digital Repository](http://dx.doi.org/10.5061/dryad.3jh61)
 * Eddy covariance dataset: [FLUXNET](http://www.fluxdata.org/DataInfo/default.aspx)
