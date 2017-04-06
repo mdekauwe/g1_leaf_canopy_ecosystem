@@ -175,6 +175,7 @@ def main(infname, ofname):
     df_free = pd.read_csv(os.path.join(fdir, "free_sites.csv"), skiprows=0)
 
     # Screen just for free-use sites
+
     idx = []
     for i, row_all in df.iterrows():
         for j, row_free in df_free.iterrows():
@@ -183,7 +184,6 @@ def main(infname, ofname):
                 int(row_all.year) == row_free.yr):
                 idx.append(i)
 
-    # Calculate data loss...
     print len(df)
     df = df.ix[idx]
     print len(df)
