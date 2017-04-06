@@ -98,7 +98,7 @@ def main():
     ax.set_yticks(np.arange(0,16,2))
 
 
-    ax.set_xticklabels(pfts)
+    #ax.set_xticklabels(pfts)
 
     for i,p in enumerate(pfts[:-3]):
 

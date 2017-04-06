@@ -430,7 +430,7 @@ class GetFluxData(FitFluxnetData): #subclass, inherits from FitFluxnetData
         # Filter extreme gs values which have come from extremely low VPD
         extreme = df['gs_est'].mean() + (3.0 * df['gs_est'].std())
         df = df[df['gs_est'] < extreme]
-        
+
         F = FitMedlyn(fluxnet=True)
         params = F.setup_model_params()
         (result, success) = F.minimise_params(params, df, df["gs_est"])
