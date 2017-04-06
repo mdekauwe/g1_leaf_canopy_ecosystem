@@ -1,13 +1,14 @@
-# Discrepancies between leaf and ecosystem measures of water-use efficiency
+# How do leaf and ecosystem measures of water-use efficiency compare?
 
 [Belinda E. Medlyn](https://bmedlyn.wordpress.com/),
 [Martin G. De Kauwe](https://mdekauwe.github.io/),
 [Yan-Shih Lin](https://sites.google.com/site/yanshihlin/),
-Juergen Knauer,
+Jürgen Knauer,
 [Remko A. Duursma](http://www.remkoduursma.com/),
 Christopher A. Williams,
 Almut Arneth,
-Rob Clement, Peter Isaac,
+Rob Clement,
+Peter Isaac,
 Jean-Marc Limousin,
 Maj-Lena Linderson,
 Patrick Meir,
